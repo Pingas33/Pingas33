@@ -1,12 +1,7 @@
 # Sobre mim
 
-- 👋 Hi, I’m @Pingas33
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá meu nome é Pingas33
+- 👀 Meu email de contato é [emeil](miguel.collaco.prado@escola.pr.gov.br)
+- 🌱 Eu estou interessado em aprender a programar novas linguagens.
+- 💞️ Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 
-<!---
-Pingas33/Pingas33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
